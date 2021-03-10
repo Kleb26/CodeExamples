@@ -20,3 +20,4 @@ VR_scale [Microscope Visualisation]:
 Manages the scaling mode. Scales the slice stack in the VR space. Takes controller input for scaling, both individual and combined.
 Manages scale resetting as well as a save and load function for a set scale.
 
+Example of the micrscope visualisation project is linked within 'Microscope Visualisation Example', more details there also.
