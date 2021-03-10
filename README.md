@@ -1,4 +1,4 @@
 # CodeExamples
-Portfolio of past code.
+Portfolio of past coding for example purposes.
 
-Code sectioned first into Python and C# examples, and then further by type of example within.
+Code is sectioned up into Python and C# code and further details given in README within each directory.
