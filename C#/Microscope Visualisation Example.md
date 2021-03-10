@@ -1,4 +1,4 @@
-#Example compiled version of VR Miscrope Visualisation project.
+# Example compiled version of VR Miscrope Visualisation project.
 
 A compiled, executable, example of a real microscope data set visualised in VR can be seen following this link:
 <https://1drv.ms/u/s!AogGwILDvkA6gpkz0VyC6iL_TBsCJQ?e=x6nxwT>
